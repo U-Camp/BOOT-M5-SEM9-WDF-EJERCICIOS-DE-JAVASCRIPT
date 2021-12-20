@@ -1,3 +1,5 @@
+![Banner](imagenes/banner.png)
+
 # BOOT-M5-SEM7-WDF-EJERCICIOS-DE-JAVASCRIPT
 
 Vamos a hacer unos ejercicios básicos para comenzar a programar en JavaScript.
