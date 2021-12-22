@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# EJERCICIOS DE JAVASCRIPT
+# WDF M5 S7, S8Y S9: EJERCICIOS DE JAVASCRIPT
 
 >#### Hola, a continuación, te invito a realizar unos ejercicios básicos para comenzar a programar en JavaScript.
 
