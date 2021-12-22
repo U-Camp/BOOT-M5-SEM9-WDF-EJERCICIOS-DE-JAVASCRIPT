@@ -27,9 +27,9 @@
 
 ## EJERCICIOS
 
-- **Ejercicio 1:** Pide la edad y si es mayor de 18 años indica que ya puede conducir.
+- **Ejercicio 1:** Se necesita crear una funcionalidad que permita pedirle la edad al usuario y si es mayor de 18 años indicarle que ya puede conducir.
 
-- **Ejercicio 2:** Pide una nota (número). Muestra la calificación según la nota:
+- **Ejercicio 2:** Se necesita una funcionalidad que pida una nota (número) y luego muestre la calificación según los siguientes criterios:
   -   0-3: Muy deficiente
   -   3-5: Insuficiente
   -   5-6: Suficiente
@@ -39,7 +39,7 @@
 
 - **Ejercicio 3:** Realiza un script que pida cadenas de texto hasta que se pulse “cancelar”. Al salir con “cancelar” deben mostrarse todas las cadenas concatenadas con un guión -.
 
-- **Ejercicio 4:** Realiza un script que pida números hasta que se pulse “cancelar”. Si no es un número deberá indicarse con un «alert» y seguir pidiendo. Al salir con “cancelar” deberá indicarse la suma total de los números introducidos.
+- **Ejercicio 4:** Realiza un script que pida números hasta que se pulse “cancelar”. Si no es un número deberá indicarse con un `alert` y seguir pidiendo. Al salir con “cancelar” deberá indicarse la suma total de los números introducidos.
 
 >#### Espero hayas podido realizar los ejercicios, recuerda que mientras más practiques mejor será tu lógica y habilidad de programación.
 >#### Nos vemos luego.
